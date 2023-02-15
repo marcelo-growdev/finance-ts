@@ -1,0 +1,7 @@
+## finance-ts
+
+### Para iniciar um projeto TS
+
+1 - npm init -y
+2 - npm install typescript -D
+3 - npx tsc --init
